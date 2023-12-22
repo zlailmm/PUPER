@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<property-set xmlns="http://mcc.lip6.fr/">
+    <property>
+        <id>test</id>
+        <description>Automatically generated</description>
+        <formula>
+            <all-paths>
+                <globally>
+                    <conjunction>
+                        <less>
+                            <variable>
+                                <name>i</name>
+                            </variable>
+                            <int-constant>
+                                145
+                            </int-constant>
+                        </less>
+                        <less>
+                            <variable>
+                                <name>j</name>
+                            </variable>
+                            <int-constant>
+                                145
+                            </int-constant>
+                        </less>
+                    </conjunction>
+                </globally>
+            </all-paths>
+        </formula>
+    </property>
+</property-set>
